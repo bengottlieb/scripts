@@ -8,3 +8,5 @@
 ./Marcel
 ./PDQ
 ./SwiftVG
+./SwiftPusher
+./LocalMesh
