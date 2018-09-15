@@ -9,4 +9,5 @@
 ./PDQ
 ./SwiftVG
 ./SwiftPusher
-./LocalMesh
+./Nearby
+./Identity

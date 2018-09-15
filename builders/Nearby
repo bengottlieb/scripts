@@ -1,4 +1,4 @@
-export PROJECT_NAME=LocalMesh
+export PROJECT_NAME=Nearby
 
 export PROJECT_DIR="${PROJECTS_FOLDER}/${PROJECT_NAME}"
 
